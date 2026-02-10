@@ -1,0 +1,15 @@
+Copyright © 2026 Ahmed Eleawa.
+All Rights Reserved.
+
+This artwork and all associated visual assets (including but not limited to
+sprites, textures, UI elements, animations, models, concept art, and visual
+designs) are proprietary.
+
+No permission is granted to copy, modify, distribute, sublicense, sell,
+commercialize, train AI models on, or otherwise use these assets in whole or in
+part, except as explicitly authorized in writing by the copyright holder.
+
+These assets may only be used as part of the original game project for which
+they were created.
+
+Unauthorized use is strictly prohibited.
